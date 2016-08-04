@@ -1,0 +1,149 @@
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\AutoMapper.Net4.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\NLayerApp.WEB.dll.config
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\NLayerApp.WEB.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\NLayerApp.WEB.pdb
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\Antlr3.Runtime.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\AutoMapper.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\Newtonsoft.Json.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\NLayerApp.BLL.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.Helpers.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.Mvc.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.Optimization.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.Razor.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\WebGrease.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\NLayerApp.DAL.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\WebActivatorEx.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\EntityFramework.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\NLayerApp.BLL.pdb
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\AutoMapper.pdb
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\AutoMapper.xml
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\AutoMapper.Net4.pdb
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.Helpers.xml
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.Mvc.xml
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.Optimization.xml
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.Razor.xml
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.xml
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\Newtonsoft.Json.xml
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\NLayerApp.DAL.pdb
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\EntityFramework.xml
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\obj\Debug\NLayerApp.WEB.csprojResolveAssemblyReference.cache
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\obj\Debug\NLayerApp.WEB.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\obj\Debug\NLayerApp.WEB.pdb
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\Ninject.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\Ninject.Web.Common.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\Ninject.Web.Mvc.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\Ninject.xml
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\Ninject.Web.Common.xml
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\Ninject.Web.Mvc.xml
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Eugene\Documents\Visual Studio 2013\Projects\Sharp\MVC\NLayerApp\NLayerApp.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\AutoMapper.Net4.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\NLayerApp.WEB.dll.config
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\NLayerApp.WEB.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\NLayerApp.WEB.pdb
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\AutoMapper.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\EntityFramework.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\Ninject.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\Ninject.Web.Common.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\Ninject.Web.Mvc.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\NLayerApp.BLL.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\WebActivatorEx.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\WebGrease.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\NLayerApp.DAL.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\NLayerApp.BLL.pdb
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\AutoMapper.pdb
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\AutoMapper.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\AutoMapper.Net4.pdb
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\EntityFramework.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\Ninject.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\Ninject.Web.Common.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\Ninject.Web.Mvc.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\bin\NLayerApp.DAL.pdb
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\obj\Debug\NLayerApp.WEB.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\obj\Debug\NLayerApp.WEB.dll
+C:\Users\User\Desktop\NLayerApp\NLayerApp.WEB\obj\Debug\NLayerApp.WEB.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\AutoMapper.Net4.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\NLayerApp.WEB.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\NLayerApp.WEB.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\NLayerApp.WEB.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\AutoMapper.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Ninject.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Ninject.Web.Common.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Ninject.Web.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\NLayerApp.BLL.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.Razor.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\WebActivatorEx.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\WebGrease.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\NLayerApp.DAL.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\NLayerApp.BLL.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\AutoMapper.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\AutoMapper.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\AutoMapper.Net4.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Ninject.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Ninject.Web.Common.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Ninject.Web.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.Razor.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\NLayerApp.DAL.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\obj\Debug\NLayerApp.WEB.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\obj\Debug\NLayerApp.WEB.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\obj\Debug\NLayerApp.WEB.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Microsoft.Owin.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Owin.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Microsoft.Owin.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\NLayerApp\NLayerApp.WEB\bin\Microsoft.Owin.Security.xml

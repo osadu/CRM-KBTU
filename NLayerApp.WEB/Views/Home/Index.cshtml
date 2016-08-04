@@ -1,0 +1,262 @@
+﻿<html>
+
+<head>
+    <title>Главная страница</title>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.2.1.min.js"></script>
+    <script src="~/signalr/hubs"></script>
+    <script src="~/Scripts/CrmController/controller.js"></script>
+    <style>
+        #main_table {
+            border-collapse: collapse;
+            width: 200px;
+        }
+
+        th {
+            height: 50px;
+            padding-left: 50px;
+            padding-right: 50px;
+        }
+
+        #main_table tr td, #main_table tr th {
+            border: 1px solid;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body ng-app="CrmApp">
+
+    <div ng-controller="CrmController">
+
+        <div style="width:300px;">
+            <ul>
+                <li><a ng-click="getClients()">Клиенты</a></li>
+                <li><a ng-click="getCourses()">Курсы</a></li>
+                <li><a ng-click="getEvents()">Мероприятий</a></li>
+            </ul>
+        </div>
+
+        <div ng-show="isClients()">
+            <input type="button" value="Добавить клиента" ng-click="value = 4"/>
+            <table id="main_table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Имя</th>
+                        <th>Фамилия</th>
+                        <th>Email</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr ng-repeat="client in clients">
+                        <td>{{client.Id}}</td>
+                        <td>{{client.name}}</td>
+                        <td>{{client.sname}}</td>
+                        <td>{{client.email}}</td>
+                        <td>
+                            <input type="button" value="Удалить" ng-click="deleteClient(client.Id)" />
+                            <input type="button" value="Редактировать" ng-click="updateClientForm(client.Id)" />
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+
+        </div>
+
+        <div ng-show="isCourses()">
+            <input type="button" value="Добавить курс" ng-click="value = 6" />
+            <table id="main_table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Названия</th>
+                        <th>Продолжительность</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr ng-repeat="cours in courses">
+                        <td>{{cours.Id}}</td>
+                        <td>{{cours.cname}}</td>
+                        <td>{{cours.duration}}</td>
+                        <td>
+                           <input type="button" value="Удалить" ng-click="deleteCours(cours.Id)" />
+                            <input type="button" value="Редактировать" ng-click="updateCoursForm(cours.Id)" />
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+
+        <div ng-show="isEvents()">
+            <input type="button" value="Добавить мероприятие" ng-click="getEventForm()" />
+            <table id="main_table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Имя</th>
+                        <th>Фамилия</th>
+                        <th>Курс</th>
+                        <th>Дата</th>
+                        <th>Время</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr ng-repeat="event in events">
+                        <td>{{event.Id}}</td>
+                        <td>{{event.client_name}}</td>
+                        <td>{{event.client_sname}}</td>
+                        <td>{{event.cours_name}}</td>
+                        <td>{{event.date}}</td>
+                        <td>{{event.time}}</td>
+                        <td>
+                           <input type="button" value="Удалить" ng-click="deleteEvent(event.Id)" />
+                            <input type="button" value="Редактировать" ng-click="updateEventForm(event.Id)" />
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+         
+        <div ng-show="isClientAddForm()">
+            <form name="clientForm">
+                <fieldset style="width:200px">
+                    <p>
+                        <label for="clientName">Имя</label>
+                        <input id="clientName" ng-model="client.name" required placeholder="Введите имя" />
+                    </p>
+                    <p>
+                        <label for="clientSname">Фамилия</label>
+                        <input id="clientSname" ng-model="client.sname" required placeholder="Введите фамилию" />
+                    </p>
+                    <p>
+                        <label for="clientEmail">Email</label>
+                        <input id="clientEmail" type="email" ng-model="client.email" required placeholder="Введите email" />
+                    </p>
+                </fieldset>
+                <button type="submit" ng-click="createClient(client, clientForm)">Сохранить</button>
+            </form>
+        </div>
+        <div ng-show="isClientUpdateForm()">
+            <form name="clientForm2">
+                <fieldset style="width:200px">
+                    <p>
+                        <label for="clientName">Имя</label>
+                        <input id="clientName" ng-model="user.name" required placeholder="Введите имя" />
+                    </p>
+                    <p>
+                        <label for="clientSname">Фамилия</label>
+                        <input id="clientSname" ng-model="user.sname" required placeholder="Введите фамилию" />
+                    </p>
+                    <p>
+                        <label for="clientEmail">Email</label>
+                        <input id="clientEmail" type="email" ng-model="user.email" required placeholder="Введите email" />
+                    </p>
+                </fieldset>
+                <button type="submit" ng-click="updateClient(user, clientForm2)">Сохранить</button>
+            </form>
+        </div>
+        <div ng-show="isCoursAddForm()">
+            <form name="coursForm">
+                <fieldset style="width:200px">
+                    <p>
+                        <label for="coursName">Названия курса</label>
+                        <input id="coursName" ng-model="cours.cname" required placeholder="Введите названия курса" />
+                    </p>
+                    <p>
+                        <label for="coursDuration">Продолжительность</label>
+                        <input id="coursDuration" ng-model="cours.duration" required placeholder="Продолжительность" />
+                    </p>
+                </fieldset>
+                <button type="submit" ng-click="createCours(cours, coursForm)">Сохранить</button>
+            </form>
+        </div>
+        <div ng-show="isCoursUpdateForm()">
+            <form name="coursForm2">
+                <fieldset style="width:200px">
+                    <p>
+                        <label for="coursName">Названия курса</label>
+                        <input id="coursName" ng-model="crs.cname" required placeholder="Введите названия курса" />
+                    </p>
+                    <p>
+                        <label for="coursDuration">Продолжительность</label>
+                        <input id="coursDuration" ng-model="crs.duration" required placeholder="Продолжительность" />
+                    </p>
+                </fieldset>
+                <button type="submit" ng-click="updateCours(crs, coursForm2)">Сохранить</button>
+            </form>
+        </div>
+        <div ng-show="isEventAddForm()">
+            <form name="eventForm">
+                <fieldset style="width:200px">
+                    <p>
+                        <label for="eventClName">Клиент</label>
+                        <select ng-model="event.client_id" required>
+                            <option value="">
+                            <option ng-repeat="client in client_objects" value="{{client.Id}}">{{client.name+' '+client.sname}}</option>
+                        </select>
+                    </p>
+                    <p>
+                        <label for="eventCName">Курс</label>
+                        <select ng-model="event.cours_id" required>
+                            <option value="">
+                            <option ng-repeat="cours in cours_objects" value="{{cours.Id}}">{{cours.cname}}</option>
+                        </select>
+                    </p>
+                    <p>
+                        <label for="eventDate">Дата</label>
+                        <input id="eventDate" ng-model="event.date" required ng-pattern="/\d\d/\d\d/\d\d\d\d/" placeholder="Введите дату" />
+                    </p>
+                    <p>
+                        <label for="eventTime">Время</label>
+                        <input id="eventTime" type="time" ng-model="event.time" required placeholder="HH:mm:ss" min="08:00:00" max="17:00:00" />
+                    </p>
+                </fieldset>
+                <button type="submit" ng-click="createEvent(event, eventForm)">Сохранить</button>
+            </form>
+        </div>
+        <div ng-show="isEventUpdateForm()">
+            <form name="eventForm2">
+                <fieldset style="width:200px">
+                    <p>
+                        <label for="eventClName">Клиент</label>
+                        <select ng-model="ev.client_id" required>
+                            <option value="">
+                            <option ng-repeat="client in client_objects" value="{{client.Id}}">{{client.name+' '+client.sname}}</option>
+                        </select>
+                    </p>
+                    <p>
+                        <label for="eventCName">Курс</label>
+                        <select ng-model="ev.cours_id" required>
+                            <option value="">
+                            <option ng-repeat="cours in cours_objects" value="{{cours.Id}}">{{cours.cname}}</option>
+                        </select>
+                    </p>
+                    <p>
+                        <label for="eventDate">Дата</label>
+                        <input id="eventDate" ng-model="ev.date" required ng-pattern="/\d\d/\d\d/\d\d\d\d/" placeholder="Введите дату" />
+                    </p>
+                    <p>
+                        <label for="eventTime">Время</label>
+                        <input id="eventTime" type="time" ng-model="ev.time" required placeholder="HH:mm:ss" min="08:00:00" max="17:00:00" />
+                    </p>
+                </fieldset>
+                <button type="submit" ng-click="updateEvent(ev, eventForm2)">Сохранить</button>
+            </form>
+        </div>
+    </div>
+
+</body>
+
+</html>
